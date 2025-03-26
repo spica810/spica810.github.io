@@ -1,0 +1,123 @@
+[2025-03-26 10:07:37Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2025-03-26 10:07:37Z INFO HostContext] Well known directory 'Bin': 'C:\workspace\github_blog\spica810.github.io\actions-runner\bin'
+[2025-03-26 10:07:37Z INFO HostContext] Well known directory 'Root': 'C:\workspace\github_blog\spica810.github.io\actions-runner'
+[2025-03-26 10:07:37Z INFO HostContext] Well known config file 'Credentials': 'C:\workspace\github_blog\spica810.github.io\actions-runner\.credentials'
+[2025-03-26 10:07:37Z INFO HostContext] Well known directory 'Bin': 'C:\workspace\github_blog\spica810.github.io\actions-runner\bin'
+[2025-03-26 10:07:37Z INFO HostContext] Well known directory 'Root': 'C:\workspace\github_blog\spica810.github.io\actions-runner'
+[2025-03-26 10:07:37Z INFO HostContext] Well known config file 'Runner': 'C:\workspace\github_blog\spica810.github.io\actions-runner\.runner'
+[2025-03-26 10:07:37Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2025-03-26 10:07:37Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.26100.
+[2025-03-26 10:07:37Z INFO Listener] Version: 2.323.0
+[2025-03-26 10:07:37Z INFO Listener] Commit: d8b82f44a9ec0258904d5869ae683c31d5aac299
+[2025-03-26 10:07:37Z INFO Listener] Culture: ko-KR
+[2025-03-26 10:07:37Z INFO Listener] UI Culture: ko-KR
+[2025-03-26 10:07:37Z INFO HostContext] Well known directory 'Bin': 'C:\workspace\github_blog\spica810.github.io\actions-runner\bin'
+[2025-03-26 10:07:37Z INFO HostContext] Well known directory 'Root': 'C:\workspace\github_blog\spica810.github.io\actions-runner'
+[2025-03-26 10:07:37Z INFO Listener] Validating directory permissions for: 'C:\workspace\github_blog\spica810.github.io\actions-runner'
+[2025-03-26 10:07:37Z INFO CommandLineParser] Parse
+[2025-03-26 10:07:37Z INFO CommandLineParser] Parsing 1 args
+[2025-03-26 10:07:37Z INFO CommandLineParser] parsing argument
+[2025-03-26 10:07:37Z INFO CommandLineParser] HasArgs: False
+[2025-03-26 10:07:37Z INFO CommandLineParser] Adding Command: run
+[2025-03-26 10:07:37Z INFO Listener] Arguments parsed
+[2025-03-26 10:07:37Z INFO Runner] ExecuteCommand
+[2025-03-26 10:07:37Z INFO ConfigurationStore] currentAssemblyLocation: C:\workspace\github_blog\spica810.github.io\actions-runner\bin\Runner.Listener.dll
+[2025-03-26 10:07:37Z INFO HostContext] Well known directory 'Bin': 'C:\workspace\github_blog\spica810.github.io\actions-runner\bin'
+[2025-03-26 10:07:37Z INFO ConfigurationStore] binPath: C:\workspace\github_blog\spica810.github.io\actions-runner\bin
+[2025-03-26 10:07:37Z INFO HostContext] Well known directory 'Bin': 'C:\workspace\github_blog\spica810.github.io\actions-runner\bin'
+[2025-03-26 10:07:37Z INFO HostContext] Well known directory 'Root': 'C:\workspace\github_blog\spica810.github.io\actions-runner'
+[2025-03-26 10:07:37Z INFO ConfigurationStore] RootFolder: C:\workspace\github_blog\spica810.github.io\actions-runner
+[2025-03-26 10:07:37Z INFO HostContext] Well known directory 'Bin': 'C:\workspace\github_blog\spica810.github.io\actions-runner\bin'
+[2025-03-26 10:07:37Z INFO HostContext] Well known directory 'Root': 'C:\workspace\github_blog\spica810.github.io\actions-runner'
+[2025-03-26 10:07:37Z INFO HostContext] Well known config file 'Runner': 'C:\workspace\github_blog\spica810.github.io\actions-runner\.runner'
+[2025-03-26 10:07:37Z INFO ConfigurationStore] ConfigFilePath: C:\workspace\github_blog\spica810.github.io\actions-runner\.runner
+[2025-03-26 10:07:37Z INFO HostContext] Well known directory 'Bin': 'C:\workspace\github_blog\spica810.github.io\actions-runner\bin'
+[2025-03-26 10:07:37Z INFO HostContext] Well known directory 'Root': 'C:\workspace\github_blog\spica810.github.io\actions-runner'
+[2025-03-26 10:07:37Z INFO HostContext] Well known config file 'MigratedRunner': 'C:\workspace\github_blog\spica810.github.io\actions-runner\.runner_migrated'
+[2025-03-26 10:07:37Z INFO ConfigurationStore] MigratedConfigFilePath: C:\workspace\github_blog\spica810.github.io\actions-runner\.runner_migrated
+[2025-03-26 10:07:37Z INFO HostContext] Well known directory 'Bin': 'C:\workspace\github_blog\spica810.github.io\actions-runner\bin'
+[2025-03-26 10:07:37Z INFO HostContext] Well known directory 'Root': 'C:\workspace\github_blog\spica810.github.io\actions-runner'
+[2025-03-26 10:07:37Z INFO HostContext] Well known config file 'Credentials': 'C:\workspace\github_blog\spica810.github.io\actions-runner\.credentials'
+[2025-03-26 10:07:37Z INFO ConfigurationStore] CredFilePath: C:\workspace\github_blog\spica810.github.io\actions-runner\.credentials
+[2025-03-26 10:07:37Z INFO HostContext] Well known directory 'Bin': 'C:\workspace\github_blog\spica810.github.io\actions-runner\bin'
+[2025-03-26 10:07:37Z INFO HostContext] Well known directory 'Root': 'C:\workspace\github_blog\spica810.github.io\actions-runner'
+[2025-03-26 10:07:37Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\workspace\github_blog\spica810.github.io\actions-runner\.credentials_migrated'
+[2025-03-26 10:07:37Z INFO ConfigurationStore] MigratedCredFilePath: C:\workspace\github_blog\spica810.github.io\actions-runner\.credentials_migrated
+[2025-03-26 10:07:37Z INFO HostContext] Well known directory 'Bin': 'C:\workspace\github_blog\spica810.github.io\actions-runner\bin'
+[2025-03-26 10:07:37Z INFO HostContext] Well known directory 'Root': 'C:\workspace\github_blog\spica810.github.io\actions-runner'
+[2025-03-26 10:07:37Z INFO HostContext] Well known config file 'Service': 'C:\workspace\github_blog\spica810.github.io\actions-runner\.service'
+[2025-03-26 10:07:37Z INFO ConfigurationStore] ServiceConfigFilePath: C:\workspace\github_blog\spica810.github.io\actions-runner\.service
+[2025-03-26 10:07:37Z INFO CommandSettings] Flag 'help': 'False'
+[2025-03-26 10:07:37Z INFO CommandSettings] Flag 'version': 'False'
+[2025-03-26 10:07:37Z INFO CommandSettings] Flag 'commit': 'False'
+[2025-03-26 10:07:37Z INFO CommandSettings] Flag 'check': 'False'
+[2025-03-26 10:07:37Z INFO CommandSettings] Command 'configure': 'False'
+[2025-03-26 10:07:37Z INFO CommandSettings] Command 'remove': 'False'
+[2025-03-26 10:07:37Z INFO CommandSettings] Command 'warmup': 'False'
+[2025-03-26 10:07:37Z INFO ConfigurationManager] LoadSettings
+[2025-03-26 10:07:37Z INFO ConfigurationStore] IsConfigured()
+[2025-03-26 10:07:37Z INFO ConfigurationStore] IsConfigured: True
+[2025-03-26 10:07:37Z INFO ConfigurationManager] Is configured: True
+[2025-03-26 10:07:37Z INFO ConfigurationStore] Read setting file: 317 chars
+[2025-03-26 10:07:37Z INFO ConfigurationManager] Settings Loaded
+[2025-03-26 10:07:37Z INFO ConfigurationStore] IsServiceConfigured()
+[2025-03-26 10:07:37Z INFO ConfigurationStore] IsServiceConfigured: False
+[2025-03-26 10:07:37Z INFO CommandSettings] Command 'run': 'True'
+[2025-03-26 10:07:37Z INFO ConfigurationStore] IsConfigured()
+[2025-03-26 10:07:37Z INFO ConfigurationStore] IsConfigured: True
+[2025-03-26 10:07:37Z INFO ConfigurationManager] Is configured: True
+[2025-03-26 10:07:37Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2025-03-26 10:07:37Z INFO Runner] Set runner startup type - Manual
+[2025-03-26 10:07:37Z INFO CommandSettings] Flag 'once': 'False'
+[2025-03-26 10:07:37Z INFO CommandSettings] Flag 'once': 'False'
+[2025-03-26 10:07:37Z INFO Runner] RunAsync
+[2025-03-26 10:07:37Z INFO ConfigurationManager] LoadSettings
+[2025-03-26 10:07:37Z INFO ConfigurationStore] IsConfigured()
+[2025-03-26 10:07:37Z INFO ConfigurationStore] IsConfigured: True
+[2025-03-26 10:07:37Z INFO ConfigurationManager] Is configured: True
+[2025-03-26 10:07:37Z INFO ConfigurationManager] Settings Loaded
+[2025-03-26 10:07:37Z INFO MessageListener] {
+  "AgentId": 22,
+  "AgentName": "DESKTOP-PUEVDU7",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus5.actions.githubusercontent.com/f78kgZZufCJfeTSuvJf6fIfvZdnN7TEW0PfvG7EY1S9fCt6cFh/",
+  "GitHubUrl": "https://github.com/spica810/spica810.github.io",
+  "WorkFolder": "_work"
+}
+[2025-03-26 10:07:37Z INFO MessageListener] Loading Credentials
+[2025-03-26 10:07:37Z INFO ConfigurationStore] HasCredentials()
+[2025-03-26 10:07:37Z INFO ConfigurationStore] stored True
+[2025-03-26 10:07:37Z INFO CredentialManager] GetCredentialProvider
+[2025-03-26 10:07:37Z INFO CredentialManager] Creating type OAuth
+[2025-03-26 10:07:37Z INFO CredentialManager] Creating credential type: OAuth
+[2025-03-26 10:07:37Z INFO HostContext] Well known directory 'Bin': 'C:\workspace\github_blog\spica810.github.io\actions-runner\bin'
+[2025-03-26 10:07:37Z INFO HostContext] Well known directory 'Root': 'C:\workspace\github_blog\spica810.github.io\actions-runner'
+[2025-03-26 10:07:37Z INFO HostContext] Well known config file 'RSACredentials': 'C:\workspace\github_blog\spica810.github.io\actions-runner\.credentials_rsaparams'
+[2025-03-26 10:07:37Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\workspace\github_blog\spica810.github.io\actions-runner\.credentials_rsaparams
+[2025-03-26 10:07:37Z INFO MessageListener] Attempt to create session.
+[2025-03-26 10:07:37Z INFO MessageListener] Connecting to the Runner Server...
+[2025-03-26 10:07:37Z INFO RunnerServer] EstablishVssConnection
+[2025-03-26 10:07:37Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2025-03-26 10:07:37Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-03-26 10:07:37Z INFO RunnerServer] EstablishVssConnection
+[2025-03-26 10:07:37Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-03-26 10:07:37Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-03-26 10:07:37Z INFO RunnerServer] EstablishVssConnection
+[2025-03-26 10:07:37Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-03-26 10:07:37Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-03-26 10:07:39Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-03-26 10:07:39Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-03-26 10:07:39Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-03-26 10:07:39Z INFO MessageListener] VssConnection created
+[2025-03-26 10:07:39Z INFO Terminal] WRITE LINE: 
+[2025-03-26 10:07:39Z INFO Terminal] WRITE LINE: 
+[2025-03-26 10:07:39Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\workspace\github_blog\spica810.github.io\actions-runner\.credentials_rsaparams
+[2025-03-26 10:07:39Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\workspace\github_blog\spica810.github.io\actions-runner\.credentials_rsaparams
+[2025-03-26 10:07:40Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-03-26 10:07:40Z INFO MessageListener] Session created.
+[2025-03-26 10:07:40Z INFO Terminal] WRITE LINE: Current runner version: '2.323.0'
+[2025-03-26 10:07:40Z INFO Terminal] WRITE LINE: 2025-03-26 10:07:40Z: Listening for Jobs
+[2025-03-26 10:07:40Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2025-03-26 10:07:41Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\workspace\github_blog\spica810.github.io\actions-runner\.credentials_rsaparams
+[2025-03-26 10:07:41Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
